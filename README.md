@@ -2,7 +2,7 @@
 
 ## Project Abstract
 
-### This project is a from-scratch implementation of Git, the popular distributed version control system. Built as part of the Codecrafters Git challenge, it dives deep into Git’s internals — from its object model to its low-level plumbing commands.
+### This project is a from-scratch implementation of Git, the popular distributed version control system. It dives deep into Git’s internals — from its object model to its low-level plumbing commands.
 
 ### Throughout the project, this Git clone evolves from initializing a .git directory to fully cloning a public repository from GitHub using the raw Git protocol.
 
